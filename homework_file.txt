@@ -4,5 +4,9 @@ This is the part 2 of my Homework
 fixing stuff later by branch1
 =======
 This is the part 2 of my Homework.
+<<<<<<< HEAD
 added some contents
+>>>>>>> branch2
+=======
+added contents later.
 >>>>>>> branch2
