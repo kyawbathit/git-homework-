@@ -1,3 +1,8 @@
 My Homework
+<<<<<<< HEAD
 This is the part 2 of my Homework
 fixing stuff later by branch1
+=======
+This is the part 2 of my Homework.
+added some contents
+>>>>>>> branch2
